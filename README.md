@@ -1,18 +1,18 @@
 # Welcome to LexHub ✨  
-My personal archive of systems, workflows, and project thinking.
-
+_My personal archive of systems, workflows, and project thinking._
 <img width="2548" height="640" alt="ALEXIS JOHNSON" src="https://github.com/user-attachments/assets/d174b599-c9ad-4faa-b079-8820902efd22" />
 
 ## Before You Explore  
-If you're here, that means you're looking for clarity and structure.  
-If you value intention over guesswork, you’re in the right place.  
+Most people reach LexHub from my résumé or LinkedIn.  
+If that’s you, you’re likely here to understand how I create order, communicate work, and manage complexity.  
+This space was built for that level of transparency.
 
-Every file, layout, and framework here reflects real project management principles:
+Everything you see reflects the principles I use in real environments:
 - clarity before execution  
-- organized workflows over reactive scrambling  
-- consistent processes that reduce confusion  
-- documentation that removes guesswork  
-- systems that help people deliver, not struggle  
+- workflows that stay organized under pressure  
+- structure that keeps people aligned  
+- documentation that answers questions before they appear  
+- systems that keep work steady and predictable  
 
 ---
 
