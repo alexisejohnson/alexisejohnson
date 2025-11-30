@@ -1,5 +1,6 @@
 # Hi there 👋🏾  
 <img width="2548" height="640" alt="ALEXIS JOHNSON" src="https://github.com/user-attachments/assets/d174b599-c9ad-4faa-b079-8820902efd22" />
+
 **This space holds a curated collection of my work, my thinking, and the systems that shape how I operate.**  
 Everything here reflects intention, structure, and the way I approach technical and project-focused environments.
 
